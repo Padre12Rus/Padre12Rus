@@ -28,25 +28,24 @@
 
 ## 📊 Статистика GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Padre12Rus&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Padre12Rus&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padre12Rus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs">
 </p>
 
 ---
 
 ## 📫 Как связаться со мной:
 <p align="center">
-  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
+  <a href="https://t.me/@depparain">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="mailto:ТВОЙ_EMAIL">
+  <a href="mailto:padre12rus@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 ```markdown
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет!+Я+разрабатываю+код;Изучаю+новые+технологии;Люблю+решать+сложные+задачи!)
